@@ -1,0 +1,15 @@
+.container {
+    padding: 20px;
+  }
+  
+  .userList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .user {
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    padding: 15px;
+  }
+  
